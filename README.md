@@ -320,6 +320,9 @@ Response to client:  { latexCode, pdfUrl, resumeId }
 
 ---
 
+<img width="1440" height="1228" alt="image" src="https://github.com/user-attachments/assets/0dfb68d6-efb7-431a-84bc-fe372a8448f8" />
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
